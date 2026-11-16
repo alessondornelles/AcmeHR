@@ -21,7 +21,7 @@ Calcular o total da folha de pagamento da empresa.
 
 Tecnologias Utilizadas
 
-O sistema Acme HR foi desenvolvido em Java (Oracle OpenJDK 27), Maven (versão 3.9.9), JUnit (junit-platform-console-standalone-1.11.4).
+O sistema Acme HR foi desenvolvido em Java (Oracle OpenJDK 27), Maven (versão 3.9.9), JUnit 5 (junit-platform-console-standalone-1.11.4).
 
 
 
@@ -39,7 +39,7 @@ service: Implementar as regras de negócio e coordenar as operações/Camada de 
 view: Interagir com o usuário e apresentar os resultados (ex: FuncionarioView.java).
 exception: Representar situações excepcionais do sistema/Tratamento de exceções (ex: FuncionarioNaoEncontradoException.java).
 
-arquivos de teste
+arquivos de teste:
 
 terá a mesma estrutura de organização dos arquivos fonte. Fará a diferenciação utilizando o sufixo Test (ex: FuncionarioTest.java).
 
