@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://apache.org"
+         xmlns:xsi="http://w3.org"
+         xsi:schemaLocation="http://apache.org http://apache.org">
+    <modelVersion>4.0.0</modelVersion>
+
+    <!-- Definições do seu projeto -->
+    <groupId>com.github.alessondornelles</groupId>
+    <artifactId>AcmeHr</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <properties>
+        <!-- Define a versão do Java (ajuste para a versão que você usa, ex: 17, 21, etc.) -->
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+    <dependencies>
+        <!-- Suas dependências (bibliotecas) vão entrar aqui depois -->
+    </dependencies>
+
+</project>
